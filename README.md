@@ -1,4 +1,4 @@
-# nora2
+# Interface prototype for NLP tool
 
 ## Project setup
 ```
