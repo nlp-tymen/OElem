@@ -1,4 +1,4 @@
-# Interface prototype for NLP tool
+# Interface prototype for NLP tool - OElem
 
 ## Project setup
 ```
