@@ -2,7 +2,9 @@
   <div>
     <b-container>
       <br />
+      <br />
       <h1>Old English Lemmatizer</h1>
+      <br />
       <br />
       <b-row>
         <b-col>
@@ -19,9 +21,10 @@
         </b-col>
       </b-row>
       <br />
+      <br />
       <div>
         <b-tabs content-class="mt-3" align="center">
-          <b-tab title="First" active>
+          <b-tab title="Lemmatization" active>
             <table class="table table-hover">
               <thead>
                 <tr>
@@ -54,10 +57,14 @@
               </tbody>
             </table>
           </b-tab>
-          <b-tab title="Second">
-            <p>I'm the second tab</p>
+          <b-tab title="Stemming" disabled="">
+            <p>I'm a disabled tab</p>
           </b-tab>
-          <b-tab title="Disabled" disabled>
+          <b-tab title="POS tagging" disabled="">
+            <p>I'm a disabled tab!</p>
+          </b-tab>
+          </b-tab>
+          <b-tab title="Word list" disabled="">
             <p>I'm a disabled tab!</p>
           </b-tab>
         </b-tabs>
